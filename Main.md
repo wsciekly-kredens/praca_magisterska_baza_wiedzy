@@ -1,1 +1,1 @@
-ja lubuie zuppe
+Tutaj będzie reserch do magisterium mojego
