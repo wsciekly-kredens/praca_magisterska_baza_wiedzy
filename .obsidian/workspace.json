@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main.md",
+                "file": "Opis ogólny.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Main"
+              "title": "Opis ogólny"
             }
           }
         ],
@@ -167,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main.md",
+                "file": "Opis ogólny.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Main"
+              "title": "Outline of Opis ogólny"
             }
           },
           {
@@ -207,7 +207,15 @@
   },
   "active": "2010b262239ab7da",
   "lastOpenFiles": [
-    "Main.md",
+    "Prace naukowe/MobileNets.pdf",
+    "Prace naukowe/Quantization.pdf",
+    "Opis ogólny.md",
+    "Prace naukowe",
+    "Prace naukowe/SurveyLLM.pdf",
+    "Prace naukowe/DistilingTheKnowledge.pdf",
+    "Prace naukowe/SurveyNNCompresion.pdf",
+    "Prace naukowe/SurveyKnowledgeDistilation.pdf",
+    "Prace naukowe/DeepCompresion.pdf",
     "Untitled.base",
     "2026-02-17.md",
     "Welcome.md"

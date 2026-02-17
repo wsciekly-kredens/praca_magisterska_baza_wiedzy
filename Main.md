@@ -1,1 +1,0 @@
-Tutaj będzie reserch do magisterium mojego
