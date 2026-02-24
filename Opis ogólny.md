@@ -1,6 +1,6 @@
 Temat pracy: "**Metody kompresji modelu uczenia głębokiego**"
 # Aktualnie czytane prace
-Distilling the Knowledge in a Neural Network: https://arxiv.org/pdf/1503.02531
+[[Distilling the Knowledge in a Neural Network]]: https://arxiv.org/pdf/1503.02531
 An Survey of Neural Network Compression: https://arxiv.org/pdf/2006.03669
 Knowledge Distillation: A Survey: https://arxiv.org/pdf/2006.05525
 Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding: https://arxiv.org/pdf/1510.00149
@@ -19,3 +19,5 @@ Trenowanie mniejszej sieci tak, aby naśladowała działanie większej sieci. (F
 Aproksymacja wag w warstwach za pomocą iloczynu mniejszych macierzy, co zmniejsza liczbę parametrów i operacji.
 ## Sparsity-inducing regularization
 Modyfikacja funkcji kosztu poprzez dodanie kary (np. norma L1 - Lasso), co wymusza dążenie wag do zera podczas treningu
+# Mixture of experts
+Zamiast jednej wielkiej sieci, która wykonuje wszystkie zadania (rozpoznaje wszystkie klasy, przetwarza wszystkie modalności) Tworzy się zbiór mniejszych sieci które są specjalistami w węższych dziedzinach, oraz sieć która nimi orkierstruje.

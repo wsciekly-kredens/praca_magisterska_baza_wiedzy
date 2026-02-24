@@ -32,9 +32,21 @@
               "icon": "lucide-file",
               "title": "Opis ogólny"
             }
+          },
+          {
+            "id": "deec04c921185204",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Prace naukowe/SurveyNNCompresion.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "SurveyNNCompresion"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -205,11 +217,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2010b262239ab7da",
+  "active": "deec04c921185204",
   "lastOpenFiles": [
+    "Opis ogólny.md",
+    "Distilling the Knowledge in a Neural Network.md",
+    "Pasted image 20260221133112.png",
     "Prace naukowe/MobileNets.pdf",
     "Prace naukowe/Quantization.pdf",
-    "Opis ogólny.md",
     "Prace naukowe",
     "Prace naukowe/SurveyLLM.pdf",
     "Prace naukowe/DistilingTheKnowledge.pdf",
