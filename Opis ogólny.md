@@ -9,11 +9,11 @@ Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-On
 MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications: https://arxiv.org/pdf/1704.04861
 
 # Podstawowe metody
-## Pruning
+## [[Pruning]]
 Usuwanie mało istotnych wag lub neuronów z sieci, dzięki temu otrzymujemy rzadszą macierz.
 ## Kwantyzacja (Quantization)
 Redukcja precyzji reprezentacji liczbowej wag i aktywacji np z float32 do float8
-## Destylacja wiedzy (Knowledge Distilation)
+## [[Destylacja wiedzy]] (Knowledge Distilation)
 Trenowanie mniejszej sieci tak, aby naśladowała działanie większej sieci. (Fajne podoba mi się)
 ## Low-Rank Factorization (Faktoryzacja niskiego rzędu)
 Aproksymacja wag w warstwach za pomocą iloczynu mniejszych macierzy, co zmniejsza liczbę parametrów i operacji.

@@ -11,12 +11,14 @@
             "id": "a171cac69f9b1d64",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "Pruning.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "icon": "lucide-file",
+              "title": "Pruning"
             }
           },
           {
@@ -45,8 +47,7 @@
               "title": "SurveyNNCompresion"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,20 +218,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "deec04c921185204",
+  "active": "a171cac69f9b1d64",
   "lastOpenFiles": [
+    "Destylacja wiedzy.md",
     "Opis ogólny.md",
+    "Pruning.md",
+    "Prace naukowe/Survey on knowledge distilation.pdf",
+    "Prace naukowe/Continual_Learning_With_Knowledge_Distillation_A_Survey.pdf",
     "Distilling the Knowledge in a Neural Network.md",
+    "Prace naukowe/SurveyNNCompresion.pdf",
     "Pasted image 20260221133112.png",
     "Prace naukowe/MobileNets.pdf",
     "Prace naukowe/Quantization.pdf",
     "Prace naukowe",
     "Prace naukowe/SurveyLLM.pdf",
     "Prace naukowe/DistilingTheKnowledge.pdf",
-    "Prace naukowe/SurveyNNCompresion.pdf",
     "Prace naukowe/SurveyKnowledgeDistilation.pdf",
     "Prace naukowe/DeepCompresion.pdf",
-    "Untitled.base",
     "2026-02-17.md",
     "Welcome.md"
   ]
