@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pruning.md",
+                "file": "Opis ogólny.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pruning"
+              "title": "Opis ogólny"
             }
           },
           {
@@ -220,9 +220,9 @@
   },
   "active": "a171cac69f9b1d64",
   "lastOpenFiles": [
+    "Pruning.md",
     "Destylacja wiedzy.md",
     "Opis ogólny.md",
-    "Pruning.md",
     "Prace naukowe/Survey on knowledge distilation.pdf",
     "Prace naukowe/Continual_Learning_With_Knowledge_Distillation_A_Survey.pdf",
     "Distilling the Knowledge in a Neural Network.md",

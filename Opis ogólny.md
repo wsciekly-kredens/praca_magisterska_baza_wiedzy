@@ -7,7 +7,11 @@ Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantiz
 A Survey on Model Compression for Large Language Models: https://arxiv.org/pdf/2308.07633
 Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference: https://arxiv.org/pdf/1712.05877
 MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications: https://arxiv.org/pdf/1704.04861
-
+https://ieeexplore.ieee.org/abstract/document/10721446
+https://www.sciencedirect.com/science/article/abs/pii/S0031320324001730
+https://arxiv.org/abs/2403.01427
+https://arxiv.org/pdf/2303.00566
+https://arxiv.org/pdf/2301.12900
 # Podstawowe metody
 ## [[Pruning]]
 Usuwanie mało istotnych wag lub neuronów z sieci, dzięki temu otrzymujemy rzadszą macierz.
