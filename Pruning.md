@@ -8,3 +8,5 @@ Różne podejścia np One-shot - na losowa zainicjowanej sieci przepuszcamy dane
 Maksymalnie kilka epok przed obcięciem.
 # Hipoteza Loteryjnego Losu
 Każda duża podsieć ma mniejszą podsieć, która pozwala na uzyskanie praktycznie takich samych wyników, tą mniejszą sieć nazywany zwycięskim biletem.
+
+#Pruning #Hipotza_Loteryjnego_Losu

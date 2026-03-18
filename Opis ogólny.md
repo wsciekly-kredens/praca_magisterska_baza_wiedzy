@@ -25,3 +25,5 @@ Aproksymacja wag w warstwach za pomocą iloczynu mniejszych macierzy, co zmniejs
 Modyfikacja funkcji kosztu poprzez dodanie kary (np. norma L1 - Lasso), co wymusza dążenie wag do zera podczas treningu
 # Mixture of experts
 Zamiast jednej wielkiej sieci, która wykonuje wszystkie zadania (rozpoznaje wszystkie klasy, przetwarza wszystkie modalności) Tworzy się zbiór mniejszych sieci które są specjalistami w węższych dziedzinach, oraz sieć która nimi orkierstruje.
+
+#Destylacja #Kwantyzacja #MOE #Pruning

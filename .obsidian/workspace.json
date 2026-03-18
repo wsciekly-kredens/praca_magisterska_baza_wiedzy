@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Opis ogólny.md",
+                "file": "Przeglad literatury/Expandable Residual Approximation for Knowledge Distillation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Opis ogólny"
+              "title": "Expandable Residual Approximation for Knowledge Distillation"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Opis ogólny.md",
+                "file": "Przeglad literatury/Review of Lightweight Deep Convolutional Neural Networks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Opis ogólny"
+              "title": "Review of Lightweight Deep Convolutional Neural Networks"
             }
           },
           {
@@ -47,7 +47,8 @@
               "title": "SurveyNNCompresion"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,7 +71,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Przeglądarka plików"
             }
           },
           {
@@ -79,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Pruning",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +88,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Wyszukiwarka"
             }
           },
           {
@@ -104,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 319.5
   },
   "right": {
     "id": "ac6cdb01fda16e6f",
@@ -208,33 +209,55 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:Otwórz okno szybkiego wyboru": false,
+      "graph:Otwórz podgląd grafu": false,
+      "canvas:Stwórz nową tablicę": false,
+      "daily-notes:Otwórz dzisiejszy dziennik": false,
+      "templates:Wstaw szablon": false,
+      "command-palette:Otwórz listę poleceń": false,
+      "bases:Stwórz nową bazę danych": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a171cac69f9b1d64",
+  "active": "2010b262239ab7da",
   "lastOpenFiles": [
+    "Read lista.md",
+    "Przeglad literatury/Review of Lightweight Deep Convolutional Neural Networks.md",
+    "Przeglad literatury/TODO Multi-modal Knowledge Distillation-based Human Trajectory Forecasting.md",
+    "Przeglad literatury/QKD Quantization-aware Knowledge Distillation.md",
+    "Przeglad literatury/Logit Standardization in Knowledge Distillation.md",
+    "2026-03-17.md",
+    "Przeglad literatury/PACT Pruning and Clustering-Based Token Reduction for Faster Visual Language Models.md",
+    "Przeglad literatury/DepGraph Towards Any Structural Pruning.md",
+    "Pasted image 20260317190807.png",
+    "Pasted image 20260317190644.png",
+    "Przeglad literatury/DINOv2 State-of-the-art computer vision models with self-supervised learning.md",
+    "Przeglad literatury/AN IMAGE IS WORTH 16X16 WORDS TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE.md",
+    "Pasted image 20260316132213.png",
     "Pruning.md",
-    "Destylacja wiedzy.md",
     "Opis ogólny.md",
+    "Pasted image 20260314161430.png",
+    "Pasted image 20260314161111.png",
+    "Przeglad literatury/Expandable Residual Approximation for Knowledge Distillation.md",
+    "Przeglad literatury/Distilling the Knowledge in a Neural Network.md",
+    "Przeglad literatury/A survey on knowledge distillation Recent advancements.md",
+    "Przeglad literatury/What Makes a Good Dataset for Knowledge Distillation.md",
+    "Przeglad literatury/Delta Knowledge Distillation for Large Language Models.md",
+    "Destylacja wiedzy.md",
     "Prace naukowe/Survey on knowledge distilation.pdf",
-    "Prace naukowe/Continual_Learning_With_Knowledge_Distillation_A_Survey.pdf",
-    "Distilling the Knowledge in a Neural Network.md",
+    "Prace naukowe/SurveyKnowledgeDistilation.pdf",
     "Prace naukowe/SurveyNNCompresion.pdf",
+    "Pasted image 20260314115202.png",
+    "Pasted image 20260311200819.png",
+    "Pasted image 20260310170817.png",
+    "Przeglad literatury",
+    "Prace naukowe/Continual_Learning_With_Knowledge_Distillation_A_Survey.pdf",
     "Pasted image 20260221133112.png",
     "Prace naukowe/MobileNets.pdf",
     "Prace naukowe/Quantization.pdf",
     "Prace naukowe",
     "Prace naukowe/SurveyLLM.pdf",
     "Prace naukowe/DistilingTheKnowledge.pdf",
-    "Prace naukowe/SurveyKnowledgeDistilation.pdf",
-    "Prace naukowe/DeepCompresion.pdf",
     "2026-02-17.md",
     "Welcome.md"
   ]
