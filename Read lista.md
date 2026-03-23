@@ -35,5 +35,5 @@
 - [ ] On the Opportunities of Green Computing: A Survey (2023, 32 cytowania): https://arxiv.org/abs/2311.00447
 - [ ] Survey of neural network optimization methods for sustainable AI: From data preprocessing to hardware acceleration (2025, 3): https://www.sciencedirect.com/science/article/pii/S2666827025001458
 - [ ] TopV: Compatible Token Pruning with Inference Time Optimization for Fast and Low-Memory Multimodal Vision Language Model (2025, 44): https://arxiv.org/abs/2503.18278
-- [ ] Review of Lightweight Deep Convolutional Neural Networks (2024, 166): https://link.springer.com/article/10.1007/s11831-023-10032-z
+- [x] Review of Lightweight Deep Convolutional Neural Networks (2024, 166): https://link.springer.com/article/10.1007/s11831-023-10032-z
 

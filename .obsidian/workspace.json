@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Przeglad literatury/Review of Lightweight Deep Convolutional Neural Networks.md",
+                "file": "Przeglad literatury/Wasserstein Distance Rivals Kullback-Leibler Divergence for Knowledge Distillation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Review of Lightweight Deep Convolutional Neural Networks"
+              "title": "Wasserstein Distance Rivals Kullback-Leibler Divergence for Knowledge Distillation"
             }
           },
           {
@@ -221,8 +221,14 @@
   },
   "active": "2010b262239ab7da",
   "lastOpenFiles": [
+    "Pasted image 20260323200445.png",
     "Read lista.md",
+    "Przeglad literatury/Wasserstein Distance Rivals Kullback-Leibler Divergence for Knowledge Distillation.md",
+    "Przeglad literatury/Good Teachers Explain Explanation-Enhanced  Knowledge Distillation.md",
     "Przeglad literatury/Review of Lightweight Deep Convolutional Neural Networks.md",
+    "Przeglad literatury/Knowledge Distillation with Refined Logits.md",
+    "Przeglad literatury/EPSD Early Pruning with Self-Distillation for Efficient Model Compression.md",
+    "Przeglad literatury/CrossKD Cross-Head Knowledge Distillation for Object Detection.md",
     "Przeglad literatury/TODO Multi-modal Knowledge Distillation-based Human Trajectory Forecasting.md",
     "Przeglad literatury/QKD Quantization-aware Knowledge Distillation.md",
     "Przeglad literatury/Logit Standardization in Knowledge Distillation.md",
