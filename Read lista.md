@@ -4,7 +4,7 @@
 - [ ] Curriculum Temperature for Knowledge Distillation (2022, 340 cytowań): https://arxiv.org/abs/2211.16231
 - [ ] Decoupled Knowledge Distillation (2022, 1331 cytowań): https://arxiv.org/abs/2203.08679
 - [ ] Class Attention Transfer Based Knowledge Distillation (2023, 209 cytowań): https://arxiv.org/abs/2304.12777
-- [ ] CrossKD: Cross-Head Knowledge Distillation for Object Detection (2024, 142 cytowania): https://arxiv.org/abs/2306.11369
+- [x] CrossKD: Cross-Head Knowledge Distillation for Object Detection (2024, 142 cytowania): https://arxiv.org/abs/2306.11369
 - [ ] Dual teachers for self-knowledge distillation (2024, 40 cytowań): https://www.sciencedirect.com/science/article/abs/pii/S0031320324001730
 - [ ] Continual Learning With Knowledge Distillation: A Survey (2025, 21 cytowań): https://ieeexplore.ieee.org/abstract/document/10721446
 - [ ] A Comprehensive Survey on Knowledge Distillation (2025, 62): https://arxiv.org/abs/2503.12067
