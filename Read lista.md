@@ -10,11 +10,11 @@
 - [ ] A Comprehensive Survey on Knowledge Distillation (2025, 62): https://arxiv.org/abs/2503.12067
 - [ ] Multi-modal Knowledge Distillation-based Human Trajectory Forecasting (2025, 9): https://arxiv.org/abs/2503.22201
 - [ ] Collaborative Multi-Teacher Knowledge Distillation for Learning Low Bit-width Deep Neural Networks (2022, 48): https://arxiv.org/abs/2210.16103
-- [ ] Small Scale Data-Free Knowledge Distillation (2024, 39): https://arxiv.org/abs/2406.07876
+- [x] Small Scale Data-Free Knowledge Distillation (2024, 39): https://arxiv.org/abs/2406.07876
 - [ ] Student-friendly knowledge distillation (2024, 35): https://www.sciencedirect.com/science/article/abs/pii/S0950705124005495
 - [x] Knowledge Distillation with Refined Logits (2025, 17):  https://arxiv.org/abs/2408.07703
-- [ ] Local Dense Logit Relations for Enhanced Knowledge Distillation (2025, 7): https://arxiv.org/abs/2507.15911
-- [ ] Single Teacher, Multiple Perspectives: Teacher Knowledge Augmentation for Enhanced Knowledge Distillation (2025, 17): https://openreview.net/forum?id=DmEHmZ89iB
+- [x] Local Dense Logit Relations for Enhanced Knowledge Distillation (2025, 7): https://arxiv.org/abs/2507.15911
+- [x] Single Teacher, Multiple Perspectives: Teacher Knowledge Augmentation for Enhanced Knowledge Distillation (2025, 17): https://openreview.net/forum?id=DmEHmZ89iB
 # Pruning
 - [ ] Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding (2016, 10k+ cytowań): https://arxiv.org/abs/1510.00149
 - [ ] Toward Adaptive Large Language Models Structured Pruning via Hybrid-grained Weight Importance Assessment (2025, 18 cytowań): https://ojs.aaai.org/index.php/AAAI/article/view/34078
