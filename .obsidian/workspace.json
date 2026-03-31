@@ -39,10 +39,14 @@
             "id": "88902fd41305bc3e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Podgląd grafu"
+              "type": "markdown",
+              "state": {
+                "file": "Przeglad literatury/Improved Knowledge Distillation via Teacher Assistant.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Improved Knowledge Distillation via Teacher Assistant"
             }
           },
           {
@@ -231,6 +235,14 @@
   },
   "active": "88902fd41305bc3e",
   "lastOpenFiles": [
+    "Przeglad literatury/Reciprocal Teacher-Student Learning via Forward and Feedback Knowledge Distillation.md",
+    "Przeglad literatury/Improved Knowledge Distillation via Teacher Assistant.md",
+    "O czym praca magisterska.md",
+    "Prace naukowe/Reciprocal_Teacher-Student_Learning_via_Forward_and_Feedback_Knowledge_Distillation.pdf",
+    "Przeglad literatury/Expandable Residual Approximation for Knowledge Distillation.md",
+    "Przeglad literatury/Logit Standardization in Knowledge Distillation.md",
+    "Przeglad literatury/Good Teachers Explain Explanation-Enhanced  Knowledge Distillation.md",
+    "Przeglad literatury/Knowledge Distillation from A Stronger Teacher.md",
     "Przeglad literatury/Wasserstein Distance Rivals Kullback-Leibler Divergence for Knowledge Distillation.md",
     "Przeglad literatury/What Makes a Good Dataset for Knowledge Distillation.md",
     "Przeglad literatury/Small Scale Data-Free Knowledge Distillation.md",
@@ -240,12 +252,8 @@
     "Przeglad literatury/QKD Quantization-aware Knowledge Distillation.md",
     "Przeglad literatury/PACT Pruning and Clustering-Based Token Reduction for Faster Visual Language Models.md",
     "Przeglad literatury/On the Opportunities of Green Computing A Survey.md",
-    "Przeglad literatury/Logit Standardization in Knowledge Distillation.md",
     "Przeglad literatury/Local Dense Logit Relations for Enhanced Knowledge Distillation.md",
     "Przeglad literatury/Knowledge Distillation with Refined Logits.md",
-    "Przeglad literatury/Knowledge Distillation from A Stronger Teacher.md",
-    "Przeglad literatury/Good Teachers Explain Explanation-Enhanced  Knowledge Distillation.md",
-    "Przeglad literatury/Expandable Residual Approximation for Knowledge Distillation.md",
     "Przeglad literatury/EPSD Early Pruning with Self-Distillation for Efficient Model Compression.md",
     "Przeglad literatury/Distilling the Knowledge in a Neural Network.md",
     "Przeglad literatury/Distillation Scaling Laws.md",
@@ -254,9 +262,6 @@
     "Przeglad literatury/Delta Knowledge Distillation for Large Language Models.md",
     "Przeglad literatury/CrossKD Cross-Head Knowledge Distillation for Object Detection.md",
     "Przeglad literatury/Automatic Joint Structured Pruning and Quantization for Efficient Neural Network Training and Compression.md",
-    "Przeglad literatury/AN IMAGE IS WORTH 16X16 WORDS TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE.md",
-    "Przeglad literatury/A survey on knowledge distillation Recent advancements.md",
-    "Przeglad literatury/A Survey on Deep Neural Network Pruning Taxonomy, Comparison, Analysis, and Recommendations.md",
     "Pasted image 20260331175902.png",
     "Pasted image 20260330185459.png",
     "Pasted image 20260323200445.png",
@@ -275,7 +280,6 @@
     "Prace naukowe/MobileNets.pdf",
     "Prace naukowe/Quantization.pdf",
     "Prace naukowe",
-    "Prace naukowe/SurveyLLM.pdf",
-    "Prace naukowe/DistilingTheKnowledge.pdf"
+    "Prace naukowe/SurveyLLM.pdf"
   ]
 }
