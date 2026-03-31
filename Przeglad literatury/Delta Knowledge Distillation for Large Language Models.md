@@ -16,4 +16,4 @@ Wyniki modelu trenowanego na delcie są lepsze od innych podejść.
 ![[Pasted image 20260310170817.png]]
 
 
-#Destylacja 
+#Destylacja #Y2025

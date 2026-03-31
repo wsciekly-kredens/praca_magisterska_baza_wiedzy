@@ -26,4 +26,5 @@ Metoda ta osiąga **SoTA na największych zbiorach danych**. Autorzy porównali 
 Metoda ta poradziła sobie lepiej o średnio 1-2 pp od wymienionych metod.
 Co ciekawe tryby nie różnią się od siebie znacząco jak chodzi o efekty, wszystkie pokonują konkurentów i tylko wraz ze wzrostem ich złożoności delikatnie poprawiają wyniki.
 ![[Pasted image 20260311200819.png]]
-#Destylacja #Reszty #MBRNet
+
+#Destylacja #Reszty #MBRNet #Y2025

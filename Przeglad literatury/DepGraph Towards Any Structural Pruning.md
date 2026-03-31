@@ -17,4 +17,4 @@ Po zbudowaniu grafu pruning robi się prosty.
 - DepGraph sprawdza do jakiej grupy zależności należy ten parametr.
 - Wszystkie parametry z grupy usuwamy na raz.
 
-#Pruning 
+#Pruning #Y2023

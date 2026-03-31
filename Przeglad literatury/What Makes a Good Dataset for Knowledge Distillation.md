@@ -22,4 +22,5 @@ Badacze doszli do wniosku, że kluczową cechą obrazów w zbiorze zastępczym n
 W pracy wykorzystano klasyczne KD. W eksperymentach porównano modele otrzymane przez trening na tym zbiorze do modeli otrzymanych poprzez trening na danych dziedzinowych i poza dziedzinowych.
 Eksperymenty pokazały, ze optymalizowanie danych może zbliżyć wyniki do wyników otrzymanych przez model trenowany na danych naturalnych.
 ![[Pasted image 20260314115202.png]]
-#Destylacja #Dane_treningowe
+
+#Destylacja #Dane_treningowe #Y2025

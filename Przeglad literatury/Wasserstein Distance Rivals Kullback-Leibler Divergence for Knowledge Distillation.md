@@ -11,4 +11,4 @@ WKD-L przewyższa silne warianty oparte na KLD.
 ![[Pasted image 20260323200445.png]]
 
 
-#Destylacja
+#Destylacja #Y2024

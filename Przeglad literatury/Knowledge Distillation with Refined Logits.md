@@ -9,4 +9,4 @@ Sam proces polega na przekazaniu od ucznia wartości pewności jaką nauczyciel 
 ![[Pasted image 20260324143857.png]]
 
 
-#Destylacja 
+#Destylacja #Y2025

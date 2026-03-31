@@ -8,4 +8,4 @@ Proponują podejście które nazywają SSD-KD, które opiera się na dwóch fila
 ![[Pasted image 20260324155030.png]]
 
 
-#Destylacja #Data-Free
+#Destylacja #Data-Free #Y2024

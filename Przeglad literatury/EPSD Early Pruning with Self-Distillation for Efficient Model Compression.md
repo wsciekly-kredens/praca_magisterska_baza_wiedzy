@@ -26,4 +26,4 @@ Największymi zaletami tego podejścia są: Regularyzacja i zapobieganie przeucz
 
 
 
-#Destylacja 
+#Destylacja #Y2024

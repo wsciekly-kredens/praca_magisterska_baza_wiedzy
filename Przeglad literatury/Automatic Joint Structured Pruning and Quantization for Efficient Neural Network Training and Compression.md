@@ -9,4 +9,4 @@ Kluczową cechą podejścia jest to że jest agnostyczny względem frameworku.
 Metoda osiąga wyniki lepsze od konkurencyjnych metod. Osiąga mniejsze modele, które mają wyższą dokładność, a proces treningu jest automatyczny.
 
 
-#Pruning #Kwantyzacja 
+#Pruning #Kwantyzacja #Y2025 

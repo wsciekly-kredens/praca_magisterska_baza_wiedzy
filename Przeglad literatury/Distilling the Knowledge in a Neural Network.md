@@ -29,4 +29,4 @@ Sieć uczona od nauczyciela uzyskała dużo lepsze rezultaty od identycznej siec
 W pracy przedstawione jest jak destylacja może być przydatna do wykorzystania w sieciach wykorzystujących specjalistów. Główną zaletą specjalistów jest możliwość współbierznego trenowania wielu sieci na raz (co jest problematyczne w przypadku MOE). Autorzy zauważają też duże ryzyko **przeuczenia** oraz podają jak można temu zapobiec używając soft targets.
 
 
-#Destylacja #MOE
+#Destylacja #MOE #Y2015

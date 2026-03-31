@@ -11,7 +11,6 @@ Jej głównymi filarami są:
         
 - **Kompletność wiedzy (Non-target knowledge):** Po zastosowaniu powyższych kroków, metoda dokonuje dodatkowej destylacji informacji o pozostałych klasach (innych niż docelowa). Zapewnia to, że żadna pożyteczna informacja od nauczyciela nie zostaje utracona.
 # Wyniki
-![[Pasted image 20260330145755.png]]
+![[Pasted image 20260331175902.png]]
 
-
-#Destylacja 
+#Destylacja #Y2026

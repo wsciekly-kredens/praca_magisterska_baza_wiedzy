@@ -15,4 +15,4 @@ Co do zasady nauczyciel widzi tylko wycinki globalne, a uczeń widzi wszystkie w
 Tutaj też dochodzimy do celu treningu. Uczeń ma przetworzyć lokalny wycinek i wygenerować taką taką samą reprezentację jak nauczyciel patrzący na duży wycinek.
 
 
-#Destylacja #ViT 
+#Destylacja #ViT #Y2024

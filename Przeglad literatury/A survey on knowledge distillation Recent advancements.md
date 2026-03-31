@@ -40,4 +40,4 @@ Przeciwdziała katastroficznemu zapominaniu podczas uczenia. Nauczyciel pomaga z
 ### Mult-teacher Distillation
 Jeden model uczeń czerpie wiedzę z wielu modelu nauczycieli.
 
-#Destylacja
+#Destylacja #Y2024

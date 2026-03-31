@@ -8,4 +8,4 @@ Oba te elementy składają się na PACT.
 Takie podejście przekłada się na znaczne przyśpieszenie działania modelu jednocześnie oszczędza pamięć modelu. To wszystko dzieje się bez zauważalnych strat w jakości modelu.
 
 
-#Pruning #Data_copression
+#Pruning #Data_copression #Y2025

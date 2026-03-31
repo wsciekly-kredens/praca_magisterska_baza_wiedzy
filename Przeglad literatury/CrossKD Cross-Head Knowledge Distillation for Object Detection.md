@@ -14,4 +14,4 @@ Prowadzi to do sytuacji kiedy w jednym batchu treningowym wagi backbone studenta
 # Wyniki
 Tak trenowany model osiąga wynik które zdecydowanie przebijają bardziej skomplikowane metody.
 
-#Destylacja #Detekcja_obiektów
+#Destylacja #Detekcja_obiektów #Y2024 

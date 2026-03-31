@@ -21,7 +21,7 @@
 - [ ] Structured Pruning for Deep Convolutional Neural Networks: A survey (2023, 493 cytowania): https://arxiv.org/abs/2303.00566
 - [x] Automatic Joint Structured Pruning and Quantization for Efficient Neural Network Training and Compression (2025, 14 cytowań): https://arxiv.org/abs/2502.16638
 - [ ] ATP: Adaptive Threshold Pruning for Efficient Data Encoding in Quantum Neural Networks (2025, 7 cytowań): https://arxiv.org/abs/2503.21815
-- [ ] A Survey on Deep Neural Network Pruning: Taxonomy, Comparison, Analysis, and Recommendations (2024, 279): https://ieeexplore.ieee.org/abstract/document/10643325
+- [x] A Survey on Deep Neural Network Pruning: Taxonomy, Comparison, Analysis, and Recommendations (2024, 279): https://ieeexplore.ieee.org/abstract/document/10643325
 - [ ] Why is the State of Neural Network Pruning so Confusing? On the Fairness, Comparison Setup, and Trainability in Network Pruning (2023, 35): https://arxiv.org/abs/2301.05219
 # Kwantyzacja
 - [ ] Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference (2017, 5k+ cytowań): https://arxiv.org/abs/1712.05877

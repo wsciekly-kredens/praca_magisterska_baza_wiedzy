@@ -12,4 +12,4 @@ Model osiągnął wyniki SoTA dla ImageNet i CIFAR. Metodę porównano do wiodą
 ![[Pasted image 20260314161111.png|697]]
 ![[Pasted image 20260314161430.png]]
 
-#Kwantyzacja #Destylacja #Pre_Kwantyzacja
+#Kwantyzacja #Destylacja #Pre_Kwantyzacja #Y2019

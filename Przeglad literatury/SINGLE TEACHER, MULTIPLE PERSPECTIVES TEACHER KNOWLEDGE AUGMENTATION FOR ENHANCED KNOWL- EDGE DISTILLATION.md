@@ -11,4 +11,4 @@ Warto zauważyć, że prezentowane podejście jest architecture agnostic.
 ![[Pasted image 20260330152821.png]]
 
 
-#Destylacja #Architecture_agnostic
+#Destylacja #Architecture_agnostic #Y2025 

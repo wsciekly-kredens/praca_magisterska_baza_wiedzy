@@ -8,4 +8,4 @@ Praca analizuje zagadnienia takie jak:
 Autorzy pracy wskazują kwantyzację i pruning jako najbardziej dojrzałe i skuteczne techniki w redukcji kosztów wdrożenia modeli.
 
 
-#Green_computing #Kwantyzacja #Pruning 
+#Green_computing #Kwantyzacja #Pruning #Y2023

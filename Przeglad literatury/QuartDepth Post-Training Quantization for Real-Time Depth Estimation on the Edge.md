@@ -7,4 +7,4 @@ Autorzy zauważyli, że aktywacje w modelach głębi mają specyficzny rozkład.
 Tak skompresowane modele pozwalają na osiagnięcie czasu rzeczywistego w estymacji głębi na urządzeniach edge.
 
 
-#Kwantyzacja #Post_Kwantyzacja
+#Kwantyzacja #Post_Kwantyzacja #Y2025

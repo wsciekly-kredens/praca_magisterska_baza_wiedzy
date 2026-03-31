@@ -8,4 +8,4 @@ Główną wadą tej architektury jest konieczność wykorzystania dużo wiekszeg
 # Zalety
 Jak opisałem pretrenowany model bazowy ViT po transfer learningu często pokonuje douczony model CNN.
 ![[Pasted image 20260316132213.png]]
-#ViT
+#ViT #Y2021

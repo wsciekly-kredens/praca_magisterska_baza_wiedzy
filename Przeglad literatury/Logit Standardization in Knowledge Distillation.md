@@ -12,4 +12,4 @@ W pracy porównano wiele różnych par architektur na zadaniach ImageNet i Cifar
 ![[Pasted image 20260317190807.png]]
 
 
-#Destylacja 
+#Destylacja #Y2024

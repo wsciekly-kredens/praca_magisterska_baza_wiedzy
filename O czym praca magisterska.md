@@ -1,0 +1,1 @@
+Destylacja wiedzy w klasyfikacji obrazów jako backbone. Porównanie metod architecture agnostic do destylacji, i wpływ pruningu na nie???

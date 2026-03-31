@@ -5,4 +5,4 @@ Osiąga się to dodając do standardowej funkcji straty komponent króry minimal
 Metoda ta jest model agnostic i nie wymaga dodatkowych parametrów w fazie wnioskowania. 
 Ta metoda szkolenia przekłada się na lepsze wyniki od sieci szkolonych stricte na logitach.
 
-#Destylacja 
+#Destylacja #Y2024
